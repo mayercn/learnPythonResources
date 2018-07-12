@@ -1,10 +1,16 @@
 
 **Test your Skills**
 * [How good are your coding skills?](https://finxter.com)
+
+**Cheat Sheets**
+* [5 PDF cheat sheet course](http://eepurl.com/dyk-en)
+* [2-page cheat sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
+
 **Python and Computer Science Puzzles**
 * [Code puzzles: Finxter](https://www.finxter.com/)
 * [Code challenges: Codeacademy](https://www.codecademy.com/)
 * [Crowdsourcing: Topcoder](https://www.topcoder.com/)
+
 **Online Tutorials**
 * [Best Training company (for online and in-person training )](http://learnbay.in)
 * [The Complete Python Masterclass: Learn Python From Scratch](https://www.udemy.com/python-masterclass-course/?couponCode=PYNEWQ)
@@ -15,6 +21,7 @@
 * [Tutorial with interpreter (more basic)](http://www.learnpython.org/)
 * [Python Tutorial: Python Training by Dan Bader – dbader.org](https://dbader.org/)
 * [Python Tutorial: Python Tutorial](http://www.python-tutorial.net/)
+
 **Online Course Material**
 * [Python Tutorial](https://data-flair.training/blogs/category/python/)- DataFlair
 * [Learn data analytics using Python, SAS, R & Excel](http://www.digitalvidya.com/data-analytics-course/?utm_source=quora&utm_medium=referral&utm_campaign=kwiki)
@@ -23,6 +30,7 @@
 * [HackSource](https://hacksource.xyz/subjects/python/resources): Curated list of python tutorials
 * [Ocw](http://ocw.mit.edu/): introduction to computer science and programming
 * [Dataquest: Learn Data Science With Python And R Projects](http://Dataquest.io)
+
 **Books**
 * [Head First Python](https://www.amazon.in/Head-First-Python-Paul-Barry/dp/9352134826/ref=as_li_ss_tl?ie=UTF8&keywords=head+first+python&linkCode=ll1&linkId=7e5e1bb5ca6c1a40e68dab9839087a32&qid=1500367530&sr=8-1&tag=free251mobi-21) (recommended if you are new to Python and programming)
 * [Learn Python the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code](https://www.amazon.in/Learn-Python-Hard-Way-Introduction/dp/0321884914/ref=as_li_ss_tl?ie=UTF8&keywords=learn+python+the+hard+way+book&linkCode=ll1&linkId=44551b5a7f0e6eb2d4b2d1fe706ff080&qid=1495432331&sr=8-1&tag=free251mobi-21)
