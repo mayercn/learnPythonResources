@@ -1,8 +1,8 @@
 
 **Test your Skills and Code Puzzles**
-* [Finxter: How good are your coding skills?](https://finxter.com)
-* [Code challenges: Codeacademy](https://www.codecademy.com/)
-* [Crowdsourcing: Topcoder](https://www.topcoder.com/)
+* [Finxter: How good are your coding skills? Test and Train with >300 code puzzles](https://finxter.com)
+* [Solve code challenges at Codeacademy](https://www.codecademy.com/)
+* [Crowdsourcing coding tasks at Topcoder](https://www.topcoder.com/)
 
 **Cheat Sheets**
 * [5 x PDF free cheat sheet course](http://eepurl.com/dyk-en)
