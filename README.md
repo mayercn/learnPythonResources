@@ -7,7 +7,7 @@
 * [2-page cheat sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
 
 **Python and Computer Science Puzzles**
-* [Code puzzles: Finxter](https://www.finxter.com/)
+* [Code puzzles: Finxter](https://app.finxter.com/learn/computer/science)
 * [Code challenges: Codeacademy](https://www.codecademy.com/)
 * [Crowdsourcing: Topcoder](https://www.topcoder.com/)
 
