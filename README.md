@@ -1,6 +1,6 @@
 
 **Test your Skills and Code Puzzles**
-* [How good are your coding skills?](https://finxter.com)
+* [Finxter: How good are your coding skills?](https://finxter.com)
 * [Code challenges: Codeacademy](https://www.codecademy.com/)
 * [Crowdsourcing: Topcoder](https://www.topcoder.com/)
 
