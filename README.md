@@ -1,15 +1,12 @@
 
-**Test your Skills**
+**Test your Skills and Code Puzzles**
 * [How good are your coding skills?](https://finxter.com)
+* [Code challenges: Codeacademy](https://www.codecademy.com/)
+* [Crowdsourcing: Topcoder](https://www.topcoder.com/)
 
 **Cheat Sheets**
 * [5 x PDF free cheat sheet course](http://eepurl.com/dyk-en)
 * [2-page cheat sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
-
-**Python and Computer Science Puzzles**
-* [Code puzzles: Finxter](https://app.finxter.com/learn/computer/science)
-* [Code challenges: Codeacademy](https://www.codecademy.com/)
-* [Crowdsourcing: Topcoder](https://www.topcoder.com/)
 
 **Online Tutorials**
 * [Best Training company (for online and in-person training )](http://learnbay.in)
