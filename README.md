@@ -3,7 +3,7 @@
 * [How good are your coding skills?](https://finxter.com)
 
 **Cheat Sheets**
-* [5 PDF cheat sheet course](http://eepurl.com/dyk-en)
+* [5 x PDF free cheat sheet course](http://eepurl.com/dyk-en)
 * [2-page cheat sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
 
 **Python and Computer Science Puzzles**
