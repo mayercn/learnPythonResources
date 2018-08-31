@@ -29,7 +29,8 @@
 * [Dataquest: Learn Data Science With Python And R Projects](http://Dataquest.io)
 
 **Books**
-* [Head First Python](https://www.amazon.in/Head-First-Python-Paul-Barry/dp/9352134826/ref=as_li_ss_tl?ie=UTF8&keywords=head+first+python&linkCode=ll1&linkId=7e5e1bb5ca6c1a40e68dab9839087a32&qid=1500367530&sr=8-1&tag=free251mobi-21) (recommended if you are new to Python and programming)
+* [Coffee Break Python: 50 Workouts to Kickstart Your Rapid Code Understanding in Python](https://www.amazon.com/Coffee-Break-Python-Kickstart-Understanding-ebook/dp/B07GSTJPFD/ref=sr_1_1?ie=UTF8&qid=1535719963&sr=8-1&keywords=coffee+break+python): Recommended if you have a busy life to learn Python in small batches
+* [Head First Python](https://www.amazon.in/Head-First-Python-Paul-Barry/dp/9352134826/ref=as_li_ss_tl?ie=UTF8&keywords=head+first+python&linkCode=ll1&linkId=7e5e1bb5ca6c1a40e68dab9839087a32&qid=1500367530&sr=8-1&tag=free251mobi-21)
 * [Learn Python the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code](https://www.amazon.in/Learn-Python-Hard-Way-Introduction/dp/0321884914/ref=as_li_ss_tl?ie=UTF8&keywords=learn+python+the+hard+way+book&linkCode=ll1&linkId=44551b5a7f0e6eb2d4b2d1fe706ff080&qid=1495432331&sr=8-1&tag=free251mobi-21)
 * [Python Cookbook](https://www.amazon.in/Python-Cookbook-Brian-Jones/dp/9351101401/ref=as_li_ss_tl?ie=UTF8&keywords=python+cookbook&linkCode=ll1&linkId=023973fe3a283ada375b3b128b71854c&qid=1495432476&sr=8-1&tag=free251mobi-21)
 * [Learning Python: Powerful Object-Oriented Programming](https://www.amazon.in/Learning-Python-Powerful-Object-Oriented-Programming/dp/9351102017/ref=as_li_ss_tl?ie=UTF8&keywords=python+cookbook&linkCode=ll1&linkId=c4e14175efb3c99129464a293dd7781c&qid=1495432476&sr=8-8&tag=free251mobi-21)
